@@ -1,2 +1,2 @@
 # TwoWheelerShowroom
-Two wheeler showroom management using Java 
+Two wheeler showroom management system using Javafx
